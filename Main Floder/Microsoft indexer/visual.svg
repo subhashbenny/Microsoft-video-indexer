@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 100" style="enable-background:new 0 0 150 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:none;stroke:#1AD0B7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st5{stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<rect width="150" height="100"/>
+<path class="st0" d="M59,36h32v32H59V36z"/>
+<path class="st0" d="M59,36h32v36H59V36z"/>
+<path class="st1" d="M75,62c5.5,0,10-4.5,10-10s-4.5-10-10-10s-10,4.5-10,10S69.5,62,75,62z"/>
+<path class="st2" d="M73.5,49l4.5,3l-4.5,3V49z"/>
+<path class="st0" d="M125,73h-4v4 M145,73h4v4 M145,99h4v-4 M125,99h-4v-4"/>
+<path class="st0" d="M23,28V1H1v27H23z"/>
+<path class="st0" d="M23,23V1H1v22H23z"/>
+<path class="st0" d="M18,21v2H6v-2c0-3.3,2.7-6,6-6C15.3,15,18,17.7,18,21z M12,15c2.2,0,4-1.8,4-4c0-2.2-1.8-4-4-4
+	c-2.2,0-4,1.8-4,4C8,13.2,9.8,15,12,15z"/>
+<path class="st3" d="M37,41V14H15v27H37z"/>
+<path class="st4" d="M37,41V14H15v27H37z"/>
+<path class="st4" d="M37,36V14H15v22H37z"/>
+<path class="st4" d="M32,34v2H20v-2c0-3.3,2.7-6,6-6S32,30.7,32,34z M26,28c2.2,0,4-1.8,4-4s-1.8-4-4-4s-4,1.8-4,4S23.8,28,26,28z"
+	/>
+<path class="st4" d="M128,82v-2h7v14h-2h4h-2V80h7v2"/>
+<path class="st4" d="M142,33c3.9,0,7-3.1,7-7s-3.1-7-7-7s-7,3.1-7,7S138.1,33,142,33z"/>
+<path class="st4" d="M117,17l10,8l-4,11h-12l-4-11L117,17z"/>
+<path class="st0" d="M1,74v25 M125,1h12v12h-12V1z M46,34l4,4L46,34z M36,78l14-9L36,78z M112,75l-12-6L112,75z M100,40l2-1L100,40z
+	"/>
+<path class="st4" d="M1,70h11v14H1V70z"/>
+<path class="st5" d="M12,74h11v14H12V74z"/>
+</svg>

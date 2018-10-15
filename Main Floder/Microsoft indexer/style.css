@@ -1,0 +1,77 @@
+h2{
+    font-family:sans-serif;
+    font-size:45px;
+}
+#p1{
+    font-size:15px;
+    font-family: sans-serif;
+}
+ul li a{
+    color:#008877;
+}
+ul li a:hover{
+
+
+
+}
+#a1 {
+    background: black;
+    height: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: white;
+    font-family: "Calibri Light";
+    font-size: 22px;
+}
+.btn-outline-light:hover{
+
+}
+.t1{
+    font-size: 14px;
+}
+.hh{
+   margin-top:10%
+}
+.aa{
+    color:#008772;
+    font-size:15px;
+    font-family: Arial;
+    font-weight: bold;
+}
+.aa:hover{
+    color:#008772;
+    font-size:15px;
+    font-family: Arial;
+    font-weight: bold;
+}
+#get{
+    background: #008772;
+    margin-top: 7%;
+    height:100px;
+  position: center;
+    text-align: center;
+    padding-top: 3%;
+}
+#ss{
+    margin-top:7%;
+}
+#ww{
+    background: black;
+    color:white;
+}
+.t2{
+    color:darkgrey;
+    font-size:15px;
+}
+h6{
+    font-weight: bold;
+    font-size: 15px;
+}
+#ht{
+    background:#008772;
+    margin-top:-3%;
+    color:white;
+}
+.navbar{
+    font-family: "Calibri";
+}
